@@ -16,11 +16,7 @@ Vault Time funciona como un repositorio digital donde los usuarios pueden:
 - Compartirlos dentro de una red segura y descentralizada.
 
 
-📊 Diagrama de Flujo
-
-*(Aquí se incluirá una imagen del diagrama de flujo del sistema)*
-
-El flujo guía al usuario paso a paso:
+📊El flujo guía al usuario paso a paso:
 
 1. Crear una cuenta wallet.
 2. Subir el archivo.
