@@ -95,8 +95,7 @@ Si necesitas más información o asistencia, contacta al responsable del proyect
 
 ¿Quieres contribuir o preservar tu propio legado digital?
 
-- Correo: [Agregar contacto]
-- Telegram/Discord: [Si aplica]
+- Correo: vaulttime1@gmail.com
 
 📝 Notas
 
@@ -210,8 +209,7 @@ If you need more information or assistance, contact the project lead and include
 
 Want to contribute or preserve your own digital legacy?
 
-* Email: \[Add contact]
-* Telegram/Discord: \[If applicable]
+* Email: vaulttime1@gmail.com
 
 
 📝 **Notes**
