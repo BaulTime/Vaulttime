@@ -206,7 +206,7 @@ If you need more information or assistance, contact the project lead and include
 Want to contribute or preserve your own digital legacy?
 
 * Email: vaulttime1@gmail.com
-https://linktr.ee/BaulTime
+  https://linktr.ee/BaulTime
 
 📝 **Notes**
 
